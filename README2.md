@@ -5,7 +5,9 @@ Things I learnt:
 - Documentation with mark down
 
 __1. Headers__
+
 \# Big Heading
+
 \### Small Heading
 
 __2. Bullet Points__

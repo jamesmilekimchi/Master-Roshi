@@ -49,8 +49,12 @@ else:
 4. man
 5. cd .. 
 
+_Click this link for more!!!_
+
+_[https://github.com/jamesmilekimchi/Master-Roshi](https://github.com/jamesmilekimchi/Master-Roshi)_
+
 __Thank you Master Roshi!__
 
 __Follow this GOAT for amazing Softwares!!!__ 
 
-__[https://github.com/shinroo/shinroo.github.io](https://github.com/shinroo/shinroo.github.io)__
+__[https://github.com/shinroo/](https://github.com/shinroo/)__

@@ -1,4 +1,4 @@
-# Project Mastoer Roshi
+# Project Master Roshi
 ## Day 2
 Things I learnt:
 

@@ -47,7 +47,7 @@ else:
 2. ls
 3. kill
 4. man
-5. cd.. 
+5. cd .. 
 
 __Thank you Master Roshi!__
 

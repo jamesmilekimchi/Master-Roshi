@@ -1,28 +1,56 @@
-# Markdown
+# Project Master Roshi 
+##Day 1
 
-This is markdown
-
-- bullet1
-- bullet2
-- bullet3
-
-1. bullet1
-2. bullet2
-
-| Heading | Heading |
-| ------- | ------- |
-| Text | Text |
-
+Things I learnt:
+- Python
+1. For Loop
 
 ```python
 
-def hello():
-	test
+for Roshi in range(100):
+	print str(Roshi)
 
 ```
 
-> akhdiowandoiaw
+[>Each item in turn is assigned to the target list using the standard rules for assignments (see Assignment statements), and then the suite is executed.](https://docs.python.org/3/reference/compound_stmts.html#the-for-statement)
 
-[link text](http://google.com)
+
+2. While Loop
+
+```python
+
+while (Roshi < 21):
+   Roshi += 1
+print "Master is " + str(Roshi)
+
+```
+
+[>This repeatedly tests the expression and, if it is true, executes the first suite; if the expression is false (which may be the first time it is tested) the suite of the else clause, if present, is executed and the loop terminates.](https://docs.python.org/3/reference/compound_stmts.html#the-while-statement)
+
+
+3. If/Else statement
+
+```python
+
+if (x == y):
+print ("big")
+else:
+print ("small")
+
+```
+
+[>This repeatedly tests the expression and, if it is true, executes the first suite; if the expression is false (which may be the first time it is tested) the suite of the else clause, if present, is executed and the loop terminates.
+
+](https://docs.python.org/3/reference/compound_stmts.html#the-if-statement)
+
+
+- bash
+1. cd
+2. ls
+3. kill
+4. man
+5. cd.. 
+
+
 
 

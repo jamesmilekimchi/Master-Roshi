@@ -51,7 +51,7 @@ else:
 
 _Click this link for more!!!_
 
-_[https://github.com/jamesmilekimchi/Master-Roshi](https://github.com/jamesmilekimchi/Master-Roshi)_
+_[https://github.com/jamesmilekimchi/Master-Roshi](https://github.com/jamesmilekimchi/Master-Roshi/README2.md)
 
 __Thank you Master Roshi!__
 

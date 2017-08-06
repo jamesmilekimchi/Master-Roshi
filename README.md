@@ -50,5 +50,7 @@ print ("small")
 5. cd.. 
 
 Thank you Master Roshi!
+
+Follow this GOAT for amazing Softwares!!! __MR__    **MR** 
+
 [https://github.com/shinroo/shinroo.github.io](https://github.com/shinroo/shinroo.github.io)
-Follow this GOAT for amazing softwares!!!!

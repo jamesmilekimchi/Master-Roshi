@@ -1,5 +1,5 @@
 # Project Master Roshi 
-##Day 1
+## Day 1
 
 Things I learnt:
 - Python
@@ -12,7 +12,7 @@ for Roshi in range(100):
 
 ```
 
-[>Each item in turn is assigned to the target list using the standard rules for assignments (see Assignment statements), and then the suite is executed.](https://docs.python.org/3/reference/compound_stmts.html#the-for-statement)
+> [Each item in turn is assigned to the target list using the standard rules for assignments (see Assignment statements), and then the suite is executed.](https://docs.python.org/3/reference/compound_stmts.html#the-for-statement)
 
 
 2. While Loop
@@ -25,7 +25,7 @@ print "Master is " + str(Roshi)
 
 ```
 
-[>This repeatedly tests the expression and, if it is true, executes the first suite; if the expression is false (which may be the first time it is tested) the suite of the else clause, if present, is executed and the loop terminates.](https://docs.python.org/3/reference/compound_stmts.html#the-while-statement)
+> [This repeatedly tests the expression and, if it is true, executes the first suite; if the expression is false (which may be the first time it is tested) the suite of the else clause, if present, is executed and the loop terminates.](https://docs.python.org/3/reference/compound_stmts.html#the-while-statement)
 
 
 3. If/Else statement
@@ -39,9 +39,7 @@ print ("small")
 
 ```
 
-[>This repeatedly tests the expression and, if it is true, executes the first suite; if the expression is false (which may be the first time it is tested) the suite of the else clause, if present, is executed and the loop terminates.
-
-](https://docs.python.org/3/reference/compound_stmts.html#the-if-statement)
+> [This repeatedly tests the expression and, if it is true, executes the first suite; if the expression is false (which may be the first time it is tested) the suite of the else clause, if present, is executed and the loop terminates.](https://docs.python.org/3/reference/compound_stmts.html#the-if-statement)
 
 
 - bash
@@ -51,6 +49,6 @@ print ("small")
 4. man
 5. cd.. 
 
-
-
-
+Thank you Master Roshi!
+[https://github.com/shinroo/shinroo.github.io](https://github.com/shinroo/shinroo.github.io)
+Follow this GOAT for amazing softwares!!!!

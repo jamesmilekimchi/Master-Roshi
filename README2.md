@@ -3,9 +3,10 @@
 Things I learnt:
 
 - Documentation with mark down
+
 __1. Headers__
-# Big Heading
-### Small Heading
+\# Big Heading
+\### Small Heading
 
 __2. Bullet Points__
 - Bullets
@@ -18,7 +19,9 @@ __3. Numbers__
 3. Three
 
 __4. Links__
+
 \[\]\(\)
+
 [https://github.com/jamesmilekimchi/Master-Roshi](https://github.com/jamesmilekimchi/Master-Roshi)
 
 __5. Code Blocks__

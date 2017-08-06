@@ -33,9 +33,9 @@ print "Master is " + str(Roshi)
 ```python
 
 if (x == y):
-print ("big")
+	print ("big")
 else:
-print ("small")
+	print ("small")
 
 ```
 
@@ -49,8 +49,8 @@ print ("small")
 4. man
 5. cd.. 
 
-Thank you Master Roshi!
+__Thank you Master Roshi!__
 
-Follow this GOAT for amazing Softwares!!! __MR__    **MR** 
+__Follow this GOAT for amazing Softwares!!!__ 
 
-[https://github.com/shinroo/shinroo.github.io](https://github.com/shinroo/shinroo.github.io)
+__[https://github.com/shinroo/shinroo.github.io](https://github.com/shinroo/shinroo.github.io)__

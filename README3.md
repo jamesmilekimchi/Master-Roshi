@@ -2,7 +2,7 @@
 ## Day 3
 Things I learnt:
 
-- # Making Variables
+- ## Making Variables
 
 [A variable is something that holds a value that may change\. In simplest terms, a variable is just a box that you can put stuff in\. You can use variables to store all kinds of stuff\.](https://en.wikibooks.org/wiki/Python_Programming/Variables_and_Strings)
 
@@ -13,7 +13,7 @@ Number = 0
 
 ```
 
-- (sys.agrv[])
+- ## (sys.agrv[])
 
 [It is operating system dependent whether this is a full pathname or not](https://docs.python.org/2/library/sys.html)
 
@@ -22,7 +22,7 @@ Number = 0
 3. Helps communication with the operating system
 4. Easy replacement for many if-else
 
-- dictionary
+- ## Dictionary
 Look for for Key, gives us the Value
 
 ``` python

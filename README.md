@@ -1,5 +1,5 @@
-# Hello Paul 
-## I'm watching you
+# Hey Paul 
+## Day 1
 
 Things I learnt:
 - Python

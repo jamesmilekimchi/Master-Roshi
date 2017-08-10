@@ -14,9 +14,12 @@ Number = 0
 ```
 
 - (sys.agrv[])
+[It is operating system dependent whether this is a full pathname or not](https://docs.python.org/2/library/sys.html)
+
 1. Goes in order: 0,1,2 etc
 2. len(sys.argv) means number of parameter
-
+3. Helps communication with the operating system
+4. Easy replacement for many if-else
 
 - dictionary
 Look for for Key, gives us the Value
@@ -28,6 +31,8 @@ nameofdictionary[key] = value
 nameofdictionary[key] = value
 
 ```
+[Dictionaries are sometimes found in other languages as “associative memories” or “associative arrays”. Unlike sequences, which are indexed by a range of numbers, dictionaries are indexed by keys, which can be any immutable type; strings and numbers can always be keys.](https://docs.python.org/2/tutorial/datastructures.html#dictionaries)
+
 ### My Task for the day!
 ### Make a convertor using dictionary  
  ``` python

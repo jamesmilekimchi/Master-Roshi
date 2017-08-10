@@ -1,5 +1,5 @@
-# Project Master Roshi 
-## Day 1
+# Hello Paul 
+## I'm watching you
 
 Things I learnt:
 - Python

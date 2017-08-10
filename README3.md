@@ -1,5 +1,5 @@
 # Project Master Roshi
-##Day 3
+## Day 3
 Things I learnt:
 
 - Making Variables

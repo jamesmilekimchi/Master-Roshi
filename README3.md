@@ -3,6 +3,8 @@
 Things I learnt:
 
 - Making Variables
+(A variable is something that holds a value that may change. In simplest terms, a variable is just a box that you can put stuff in. You can use variables to store all kinds of stuff.)[https://en.wikibooks.org/wiki/Python_Programming/Variables_and_Strings]
+
 ``` python 
 
 Unit = ''
@@ -21,8 +23,8 @@ Look for for Key, gives us the Value
 ``` python
 
 nameofdictionary = {}
-lookup_dictionary[key] = value
-lookup_dictionary[key] = value
+nameofdictionary[key] = value
+nameofdictionary[key] = value
 
 ```
 ### My Task for the day!

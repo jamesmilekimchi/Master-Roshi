@@ -1,2 +1,0 @@
-# PAUL I LOVE U
-

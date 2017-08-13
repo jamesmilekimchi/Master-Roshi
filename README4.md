@@ -98,5 +98,11 @@ plt.show()
 
 ```
 
-### One should first write the Program Name and then type the (m) which is the slope and then the y intercept.
-### Then the Calculator will graph you the equation!!!
+### One should first write the Program Name and then type the (m) which is the slope and then the y intercept. Then the Calculator will graph you the equation!!!
+
+__Thank you Master Roshi!__
+
+__Follow this GOAT for amazing softwares!!!__
+
+[https://github.com/shinroo/](https://github.com/shinroo/)
+

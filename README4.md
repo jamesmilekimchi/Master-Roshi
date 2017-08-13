@@ -51,5 +51,10 @@ plt.axis([0, 10, 0, 10])
 
 - How to add Image to Git
 
-Inline-style: 
+```python
+
+Name of you graph: 
+![alt text](https://whereever.you.get.the.picture.com "Name of the picture")
+#the words in the /"/" is the words that shows when someone hovers their mouse over it
+Dotted Line Graph: 
 ![alt text](https://github.com/jamesmilekimchi/Master-Roshi/blob/master/Dotted%20line%20graph.png "Dotted Line Graph")

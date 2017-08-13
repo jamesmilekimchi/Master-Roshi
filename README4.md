@@ -55,8 +55,48 @@ plt.axis([0, 10, 0, 10])
 
 Name of you graph: 
 ![alt text](https://whereever.you.get.the.picture.com "Name of the picture")
-#the words in the /"/" is the words that shows when someone hovers their mouse over it
+#the words in the " " is the words that shows when someone hovers their mouse over it
 
 ```
 Dotted Line Graph: 
 ![alt text](https://github.com/jamesmilekimchi/Master-Roshi/blob/master/Dotted%20line%20graph.png "Dotted Line Graph")
+
+Scattered Graph:
+![alt text](https://github.com/jamesmilekimchi/Master-Roshi/blob/master/scatter%20graph.png "Scattered Graph")
+
+## My mission of the Day!!
+
+__MAKE A GRAPHING CALCULATOR__
+
+```pyton
+
+import matplotlib.pyplot as plt
+import sys
+m = 0.0
+c = 0.0
+print str(sys.argv[0])
+result = 0
+
+if len(sys.argv) == 3:
+   m = sys.argv[1]
+   c = float(sys.argv[2])
+
+
+else:
+   print "You have not typed the correct equation"
+
+m = float(m)
+c = float(c)
+Domain = range(-100, 100)
+Range = []
+for x in Domain:
+	Range.append(m*x + c)
+
+
+plt.plot(Domain, Range, 'b-')
+plt.show()
+
+```
+
+### One should first write the Program Name and then type the (m) which is the slope and then the y intercept.
+### Then the Calculator will graph you the equation!!!

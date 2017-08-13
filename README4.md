@@ -33,7 +33,23 @@ plt.plot([10,20,30,40], linestyle= 'dashed', linewidth= 3.0, 'r-')
 
 ```python
 
-plt.plot([1,2,3,4,5,6,7,8,9,10], [1,3,5,7,9,9,7,5,3,1], 'r-')
+plt.plot([1,2,3,4,5,6,7,8,9,10], [1,3,5,7,9,9,7,5,3,1])
 
 ```
 
+5. axis
+
+[The axis() command in the example above takes a list of [xmin, xmax, ymin, ymax] and specifies the viewport of the axes.](https://matplotlib.org/users/pyplot_tutorial.html)
+
+``` python
+
+plt.axis([0, 10, 0, 10])
+
+```
+
+	* If one gives no axis, it gives the __view of best fit__.
+
+- How to add Image to Git
+
+Inline-style: 
+![alt text](https://github.com/jamesmilekimchi/Master-Roshi/blob/master/Dotted%20line%20graph.png "Dotted Line Graph")

@@ -29,7 +29,7 @@ plt.plot([10,20,30,40], linestyle= 'dashed', linewidth= 3.0, 'r-')
 
 4. plt.plot also used as X and Y values
 
-	* Or we simply call them __Domain __ and __Range__
+	* Or we simply call them __Domain__ and __Range__
 
 ```python
 

@@ -68,7 +68,7 @@ Scattered Graph:
 
 __MAKE A GRAPHING CALCULATOR__
 
-```pyton
+```python
 
 import matplotlib.pyplot as plt
 import sys

@@ -9,6 +9,8 @@
 #  else:
 #    print fizzbuzz
 
+```python
+
 for fizzbuzz in range(1,100):
 
 output = ''
@@ -19,3 +21,5 @@ if fizzbuzz % 5 == 0:
 if output == ''
 	output = fizzbuzz
 print output
+
+```

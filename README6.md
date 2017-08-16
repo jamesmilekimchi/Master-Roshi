@@ -10,16 +10,15 @@
 #    print fizzbuzz
 
 ```python
-
 for fizzbuzz in range(1,101):
 	output = ''
-	
-for key in oxford.keys
 	oxford = {}
-	oxford[3] = "Fizz"
-	oxford[5] = "Buzz"
-	if fizzbuzz % key == 0
-		
+        oxford[3] = "Fizz"
+       	oxford[5] = "Buzz"
+
+	for key in oxford.keys
+		if fizzbuzz % int(key) == 0
+		output += str(value)
 	
 	if output == '':
 		output = str(output)

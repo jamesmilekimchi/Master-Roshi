@@ -11,15 +11,20 @@
 
 ```python
 
-for fizzbuzz in range(1,100):
-
-output = ''
-if fizzbuzz % 3 == 0:
-	output += "Fizz"
-if fizzbuzz % 5 == 0:
-	output += "Buzz"
-if output == ''
-	output = fizzbuzz
-print output
+for fizzbuzz in range(1,101):
+	output = ''
+	
+for key in oxford.keys
+	oxford = {}
+	oxford[3] = "Fizz"
+	oxford[5] = "Buzz"
+	if fizzbuzz % key == 0
+		
+	
+	if output == '':
+		output = str(output)
+		fizzbuzz = str(fizzbuzz)
+		output = fizzbuzz
+	print output
 
 ```

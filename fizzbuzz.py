@@ -9,21 +9,19 @@
 #  else:
 #    print fizzbuzz
 
-```python
-for fizzbuzz in range(1,101):
-	output = ''
-	oxford = {}
-        oxford[3] = "Fizz"
-       	oxford[5] = "Buzz"
+oxford = {}
+oxford['3'] = "Fizz"
+oxford['5'] = "Buzz"
+oxford['7'] = "Wizz"
+oxford['11'] = "Duzz"
 
-	for key in oxford.keys
-		if fizzbuzz % int(key) == 0
-		output += str(value)
+for fizzbuzz in range(1,1156):
+	output = ''
+
+	for key in oxford.keys():
+		if fizzbuzz % int(key) == 0:
+			output += str(oxford[key])
 	
 	if output == '':
-		output = str(output)
-		fizzbuzz = str(fizzbuzz)
-		output = fizzbuzz
+		output = str(fizzbuzz)
 	print output
-
-```

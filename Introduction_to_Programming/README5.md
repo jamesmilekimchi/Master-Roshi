@@ -35,7 +35,7 @@ for fizzbuzz in range(1,101):
 ## Bonus!!!
 ### Use a dictionary for fizzbuzz
 
-~~~python
+```python
 oxford = {}
 oxford['3'] = "Fizz"
 oxford['5'] = "Buzz"

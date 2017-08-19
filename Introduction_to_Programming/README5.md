@@ -60,7 +60,7 @@ for fizzbuzz in range(1,1156):
 3. __Update information__ (key/value) faster. Just has to change once at the dictionary.
 4. The dictionary works __faster__ than many if and else. 
 [“In the worst case scenario I created for the IF statement logic, it’s 18 times slower than the method using a dictionary.  We can do that again with more complex strings”]( http://scottlobdell.me/2014/05/time-efficiency-statements-vs-python-dictionaries/)
-5. And __[Master Roshi](https://github.com/shinroo/)__ said so!
+5. __And __[Master Roshi](https://github.com/shinroo/)__ said so!__
 
 I just passed a __common software engineer position test!__
 
